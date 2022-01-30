@@ -16,6 +16,12 @@ else
                         if place == 286090429 then ---arsenal
                             loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init%27), true))()
                         else
+                           if place == 1537690962 then ---Bee swarm simulator
+                             loadstring(game:HttpGet("https://raw.githubusercontent.com/not-weuz/Lua/main/kocmoc.lua"))()
+                        else
+                        
+
+end
 end
 end
 end
