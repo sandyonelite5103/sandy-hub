@@ -1,10 +1,12 @@
-local place = game.PlaceId
-
-
-if place == 6284583030 then --- pet simulator x
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/myladoisbig/yochaipetvannesimulatorho/main/yochaiwallywalapsxkoscript"))()
---else
---if place == gameid then
---script here
---end
+if place == 3823781113 then -- saber sim
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/Saber-Simulator/main/Saber-Simulator-FREE-SCRIPT", true))()
+else
+    if place == 6284583030 then --- pet simulator x
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/si1nnx/psxx/main/g%22))()
+    else
+        if place == 6872265039 then ---bed war
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+        else
+end
+end
 end
