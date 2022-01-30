@@ -11,11 +11,11 @@ else
                 loadstring(game:HttpGet('https://system-exodus.com/scripts/ninjalegends/NinjaLegendsV3.lua%27,true))()
             else
                 if place == 286090429 then ---arsenal
-                            loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init%27), true))()
-                        else
-                           if place == 1537690962 then ---https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator#!/about
-                             loadstring(game:HttpGet("https://raw.githubusercontent.com/not-weuz/Lua/main/kocmoc.lua"))()
-                         else
+                    loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init%27), true))()
+                else
+                    if place == 1537690962 then ---https://www.roblox.com/games/1537690962/Bee-Swarm-Simulator#!/about
+                        loadstring(game:HttpGet("https://raw.githubusercontent.com/not-weuz/Lua/main/kocmoc.lua"))()
+                    else
 end
 end
 end
