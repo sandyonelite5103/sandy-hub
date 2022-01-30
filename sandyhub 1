@@ -10,21 +10,16 @@ else
             if place == 3956818381 then ---ninja legend
                 loadstring(game:HttpGet('https://system-exodus.com/scripts/ninjalegends/NinjaLegendsV3.lua%27,true))()
             else
-                if place == 3857052864 then ---https://www.roblox.com/games/3857052864/The-Rake-Fan-Remake
-                    loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Rake%20Script%22))()
-                    else
-                        if place == 286090429 then ---arsenal
+                if place == 286090429 then ---arsenal
                             loadstring(game:HttpGet(('https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init%27), true))()
                         else
                            if place == 1537690962 then ---bee swarm simulator
                              loadstring(game:HttpGet("https://raw.githubusercontent.com/not-weuz/Lua/main/kocmoc.lua"))()
                         else
-                        
+end
+end
+end
+end
+end
+end
 
-end
-end
-end
-end
-end
-end
-end
