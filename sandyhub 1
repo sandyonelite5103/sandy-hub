@@ -43,6 +43,9 @@ else
                                                     else
                                                         if place == 7560156054 then
                                                         loadstring(game:HttpGet("https://raw.githubusercontent.com/Prajon/DEVIL-loader-remake/main/Clicker-Simulator", true))()
+                                                        else
+                                                            if place == 4520749081 then
+                                                        loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyrkey/chicken-hub/main/king-legacy"))()
                                                     end
                                                 end
                                             end
@@ -56,4 +59,5 @@ else
             end
         end
     end
+end
 end
